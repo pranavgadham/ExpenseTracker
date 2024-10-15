@@ -1,6 +1,9 @@
 import express from "express";
 import expenseRouter from "./src/features/expense/expense.routes.js";
 import swaggerUi from 'swagger-ui-express';
+import dotenv from 'dotenv';
+
+dotenv.config();
 
 const app = express();
 
