@@ -5,10 +5,10 @@
     "description": "This are the simple expense tracker API",
     "version": "1.0.0"
   },
-  "host": "https://expensetracker-izta.onrender.com",
+  "host": "expensetracker-izta.onrender.com",
   "basePath": "/api/expenses",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/": {
