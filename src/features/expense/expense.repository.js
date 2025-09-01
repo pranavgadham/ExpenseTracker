@@ -5,7 +5,7 @@ import { ObjectId } from "mongodb";
 
 class ExpenseRepository {
   constructor() {
-    this.collectionName = "expenses"; // name of the collection in mongodb
+    this.collectionName = "expenses"; 
   }
 
   // Create a new expense

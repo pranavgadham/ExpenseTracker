@@ -34,7 +34,7 @@
                   "example": "any"
                 },
                 "tags": {
-                  "example": "any"
+                  "example": ["array"]
                 }
               }
             }
